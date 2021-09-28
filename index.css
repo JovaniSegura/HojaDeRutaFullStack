@@ -1,8 +1,9 @@
 h1{
+    color: blue;
     text-align:center;
-    text-decoration: underline;
+    text-decoration:underline; 
 }
 
 #img_Todas { 
-    width:99%; 
+    width:100%; 
 }
